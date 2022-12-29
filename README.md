@@ -1,4 +1,4 @@
-# Storefronts state of the art admin panel
+# Storefront's state of the art admin panel
 
 ## Technologies used:
 * NodeJS (16.x)
